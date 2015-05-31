@@ -4,6 +4,8 @@ html {
 	margin: 0px;
 	padding: 0px;
 	word-wrap: break-word; 
+	background: #222;
+	text-align: center;
 }
 
 body {
@@ -63,6 +65,7 @@ button:focus, input[type="submit"]:focus {
 	width: 50%;
 	margin: auto;
 }
+
 
 .clearfix {
 	height: 1px;
